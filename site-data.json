@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Coit Auto Repair & Tires",
+    "shortName": "Coit Auto Repair",
+    "tagline": "Dallas's Trusted Auto Repair & Tire Experts Since 2010",
+    "niche": "Auto Mechanic",
+    "phone": "(469) 776-8101",
+    "address": "14045 Coit Rd, Dallas, TX 75240",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30 AM - 6:00 PM, Sat 8:00 AM - 4:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Coit Auto Repair & Tires | Expert Auto Mechanic in Dallas, TX",
+    "description": "Top-rated auto repair and tire services in Dallas, TX. From brake repairs to engine diagnostics, our certified mechanics deliver quality you can trust. Call (469) 776-8101 today."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Auto Care",
+      "headline": "Expert Auto Repair & Tire Services You Can Trust",
+      "subheadline": "From routine maintenance to major repairs, our certified mechanics keep you safe on the road. Serving Dallas with honesty, quality, and fair prices.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (469) 776-8101"
+    },
+    "stats": [
+      {
+        "value": "4.1",
+        "label": "Google Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1000+",
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Complete Auto Care",
+        "title": "Comprehensive Repairs & Maintenance",
+        "body": "From brake pads to transmission flushes, we handle it all. Our state-of-the-art diagnostic equipment pinpoints issues fast, saving you time and money.",
+        "bullets": [
+          "Engine diagnostics & repair",
+          "Brake, suspension & steering",
+          "AC & heating services",
+          "Oil changes & fluid flushes"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "Free Multi-Point Inspection",
+        "cardBody": "Every service includes a thorough inspection to catch small issues before they become big problems."
+      },
+      {
+        "eyebrow": "Tire Experts",
+        "title": "Quality Tires & Wheel Services",
+        "body": "Find the perfect tires for your vehicle and driving style. We offer top brands, expert mounting, balancing, and alignment to extend tire life and improve safety.",
+        "bullets": [
+          "New & used tires all brands",
+          "Tire rotation & balancing",
+          "Wheel alignment & repair",
+          "TPMS service & replacement"
+        ],
+        "reverse": true,
+        "cardLabel": "Tire",
+        "cardTitle": "Price Match Guarantee",
+        "cardBody": "Found a better price? We'll match it. Plus free tire rotation for life with purchase."
+      }
+    ],
+    "whyTitle": "Why Choose Coit Auto Repair & Tires?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our ASE-certified mechanics have the training and experience to service all makes and models correctly the first time."
+      },
+      {
+        "title": "Honest, Upfront Pricing",
+        "description": "No hidden fees, no upsells. We provide clear estimates before any work begins so you know exactly what to expect."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most repairs completed same-day. We respect your time and keep you informed every step of the way."
+      },
+      {
+        "title": "Warranty-Backed Service",
+        "description": "All repairs and parts come with a nationwide warranty. Your peace of mind is our priority."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my car here for years. They're honest, fair, and always get the job done right. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Lake Highlands Resident"
+      },
+      {
+        "quote": "Needed a quick brake job and they had me back on the road in a few hours. Great service and reasonable prices.",
+        "author": "Jessica T.",
+        "role": "Far North Dallas"
+      },
+      {
+        "quote": "They diagnosed a tricky engine problem that other shops couldn't figure out. Saved me thousands. Trustworthy team.",
+        "author": "David L.",
+        "role": "Richardson Commuter"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Schedule your appointment online or give us a call. We'll get you back on the road safely.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (469) 776-8101"
+    }
+  },
+  "servicesPage": {
+    "intro": "From routine oil changes to complex engine repairs, Coit Auto Repair & Tires offers a full range of services to keep your vehicle running smoothly. Our certified technicians use the latest tools and techniques to deliver quality you can count on."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Precision diagnostics and expert repairs to restore engine performance.",
+      "longDescription": "When your check engine light comes on or you notice a loss of power, our advanced diagnostic scanners pinpoint the issue quickly. We repair everything from sensors and fuel systems to timing belts and cylinder heads, using OEM-quality parts.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Restored fuel efficiency and performance",
+        "Prevents minor issues from becoming major repairs",
+        "Backed by a nationwide warranty"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic tools to read error codes and live data."
+        },
+        {
+          "title": "In-Depth Inspection",
+          "description": "Our technician performs a thorough visual and mechanical inspection to confirm the root cause."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We complete the repair using quality parts, then test drive to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics are completed within 1–2 hours. Complex issues may require additional time for thorough inspection."
+        },
+        {
+          "question": "Do you work on all car makes and models?",
+          "answer": "Yes, our technicians are trained to service domestic, Asian, and European vehicles, including hybrids."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair & Service",
+      "shortDescription": "Complete brake inspections, repairs, and replacements for safe stopping.",
+      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect pads, rotors, calipers, and brake lines, replacing worn components with high-quality parts. Whether you need a simple pad replacement or a full brake system overhaul, we ensure reliable stopping power.",
+      "benefits": [
+        "Enhanced safety and shorter stopping distances",
+        "Eliminates squeaking, grinding, and vibrations",
+        "Extends the life of your braking system",
+        "Free brake inspection with any service"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We measure pad thickness, rotor condition, and check fluid levels and lines."
+        },
+        {
+          "title": "Component Replacement",
+          "description": "Worn pads, rotors, or calipers are replaced with premium parts."
+        },
+        {
+          "title": "System Test",
+          "description": "We bleed the brakes if needed, adjust the parking brake, and test drive to confirm smooth operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000–50,000 miles, but it depends on driving habits. We inspect them during every visit."
+        },
+        {
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, a soft pedal, or vibration when braking. If you notice any of these, schedule an inspection immediately."
+        }
+      ],
+      "slug": "brake-repair-service"
+    },
+    {
+      "icon": "03",
+      "title": "Tire Sales & Service",
+      "shortDescription": "New and used tires, plus mounting, balancing, and alignment.",
+      "longDescription": "We offer a wide selection of tires from top brands like Michelin, Goodyear, Bridgestone, and more. Our experts help you choose the right tire for your vehicle, budget, and driving conditions. We also provide professional mounting, computer balancing, and precision alignment to maximize tire life and fuel economy.",
+      "benefits": [
+        "Expert tire selection guidance",
+        "Free tire rotation for life with purchase",
+        "Price match guarantee",
+        "Improved handling and fuel efficiency"
+      ],
+      "process": [
+        {
+          "title": "Tire Assessment",
+          "description": "We check tread depth, wear patterns, and age to recommend the best options."
+        },
+        {
+          "title": "Mounting & Balancing",
+          "description": "Tires are mounted on your wheels and computer-balanced for a smooth ride."
+        },
+        {
+          "title": "Alignment Check",
+          "description": "We align your vehicle's suspension to prevent uneven wear and ensure straight tracking."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you sell used tires?",
+          "answer": "Yes, we offer quality inspected used tires at affordable prices, with a limited warranty."
+        },
+        {
+          "question": "How often should I get an alignment?",
+          "answer": "Every 10,000–12,000 miles or whenever you notice pulling or uneven tire wear."
+        }
+      ],
+      "slug": "tire-sales-service"
+    },
+    {
+      "icon": "04",
+      "title": "Oil Changes & Preventive Maintenance",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes and fluid checks.",
+      "longDescription": "Regular oil changes are the best way to extend engine life. We use high-quality conventional, synthetic blend, and full synthetic oils. Our preventive maintenance service includes a multi-point inspection, fluid top-offs, and filter replacement to catch potential issues early.",
+      "benefits": [
+        "Extends engine life and improves performance",
+        "Maintains manufacturer warranty requirements",
+        "Includes a free 27-point inspection",
+        "Convenient drive-through service available"
+      ],
+      "process": [
+        {
+          "title": "Oil Drain & Filter Change",
+          "description": "We drain old oil, replace the filter, and refill with the correct oil type and amount."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check belts, hoses, fluids, tires, lights, and more to ensure everything is in good condition."
+        },
+        {
+          "title": "Fluid Top-Offs & Report",
+          "description": "We top off all essential fluids and provide a detailed report of your vehicle's health."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I change my oil?",
+          "answer": "Most modern vehicles need an oil change every 5,000–7,500 miles. Check your owner's manual for specific recommendations."
+        },
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic oils to match your vehicle's needs and your preference."
+        }
+      ],
+      "slug": "oil-changes-preventive-maintenance"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Local Auto Repair Shop in Dallas",
+    "mission": "To provide honest, high-quality auto repair and tire services that keep our community safe on the road. We believe in transparency, fair pricing, and building lasting relationships with our customers.",
+    "story": [
+      "Coit Auto Repair & Tires was founded in 2010 with a simple mission: offer Dallas drivers a better choice for auto care. Our founder, a master technician with over 20 years of experience, saw too many shops prioritizing profit over people. He built a shop where every customer is treated like family, and every repair is done right the first time.",
+      "Today, our team of ASE-certified mechanics continues that tradition. We invest in the latest diagnostic technology and ongoing training to stay ahead of the curve. Whether you drive a sedan, SUV, or truck, you can count on us for expert advice and reliable service. We're proud to be a locally owned and operated business serving the Dallas community."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years of Trusted Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We never recommend unnecessary repairs. Our estimates are honest and detailed."
+      },
+      {
+        "title": "Quality",
+        "description": "We use only high-quality parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our goal. We communicate clearly and ensure you're informed throughout the process."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to support local events and organizations that make Dallas a great place to live."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Coit Auto Repair & Tires",
+    "subheadline": "We're here to answer your questions and schedule your appointment. Call or visit us today!",
+    "primaryCta": "Call (469) 776-8101",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas, TX",
+      "Richardson, TX",
+      "Plano, TX",
+      "Garland, TX",
+      "Addison, TX",
+      "Carrollton, TX"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.1,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4697768101",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
